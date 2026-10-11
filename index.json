@@ -1,0 +1,11 @@
+{
+  "org": "aio-libs",
+  "repo": "aioga",
+  "versions": [
+    {
+      "commit": "dbc0cbdae353826c532b3f7fc1a3ab4c063f08fa",
+      "tag": "",
+      "parsed_at": "2026-10-11T08:48:12.801782+00:00"
+    }
+  ]
+}
